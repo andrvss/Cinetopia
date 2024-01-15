@@ -7,7 +7,7 @@ Filmes populares e atemporais na palma da sua mão. <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Acesso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +18,7 @@ Filmes populares e atemporais na palma da sua mão. <br/>
 <br>
 
  <p align="center">
-  <img alt="Projeto 01" src="" width="100%">
+  <img alt="Projeto 01" src="https://github.com/andrvss/Cinetopia/assets/110691699/bd02f166-5414-47e5-86b5-133a181b828e" width="100%">
 </p> 
 
 ## 🚀 Tecnologias
