@@ -26,7 +26,7 @@ Filmes populares e atemporais na palma da sua mão. <br/>
 - UIKit: Framework para construção de interfaces de usuário;
 - XCode: Ambiente de desenvolvimento integrado (IDE) oficial da Apple para desenvolvimento de aplicativos iOS;
 - Swift: Linguagem de programação poderosa e intuitiva usada para desenvolver aplicativos iOS;
-- View code: Abordagem programática para construção de interfaces de usuário, sem o uso de storyboards;
+- View Code: Abordagem programática para construção de interfaces de usuário, sem o uso de storyboards;
 - `UINavigationController`: Utilizado para navegação entre telas;
 - `UIButton, UIImageView, UILabel, UIStackView`: Componentes de interface de usuário para construção das telas.
 - `UITableView`: Componente para construção de tabelas.
@@ -41,8 +41,6 @@ A aplicação Cinetopia é um aplicativo iOS que exibe uma lista indicativa de f
 É válido ressaltar que este projeto está em estágio contínuo de desenvolvimento e em breve implementarei novas funcionalidades, bem como solucionarei um update na sinopse dos filmes, quando selecionados.
 
 ## 🔖 Acesso
-
-Acesso ao projeto
 
 Você pode [baixar o zip](https://github.com/alura-cursos/ios-view-code-layouts-tabelas/archive/refs/heads/main.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/ios-view-code-layouts-tabelas/).
 
